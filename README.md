@@ -29,7 +29,7 @@ This is a repository to showcase Work Experience, Technical skills & Key Achieve
 
 - [About](https://github.com/onkar-vk/Onkar-Kulkarni-Data-Analysis-Portfoilo/blob/main/README.md#about)
 
-- [Work Experience & Technical Skills](https://github.com/onkar-vk/Onkar-Kulkarni-Data-Analysis-Portfoilo/blob/main/README.md#Technical-skills)
+- [Work Experience & Technical Skills](https://github.com/onkar-vk/Onkar-Kulkarni-Data-Analysis-Portfoilo/blob/main/README.md#Work_Experience)
 
 
 ### 💡Work Experience (Overview):
