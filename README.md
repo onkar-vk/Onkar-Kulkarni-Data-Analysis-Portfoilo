@@ -8,11 +8,12 @@
   </a> 
 </div>
 
-## About
 
 Hi there, I’m **Onkar Kulkarni** 👋  
-**📊 Data Analyst | SQL • Python • Power BI • Excel  🚀 Unlocking Growth Through Data-Driven Insights:**
- 
+**📊 Data Analyst | SQL • Python • Power BI • Excel  
+🚀 Unlocking Growth Through Data-Driven Insights:**
+
+## About
 I’m Onkar, a passionate Data Analyst with 2 years of experience in leveraging **SQL, Python, Power BI, and Excel** to uncover trends, solve business problems, and present actionable insights. Proficient in extracting insights from large datasets, debugging, using statistical tools, SQL queries, data visualization, and transforming data to drive business decisions. 
 
 I have been working as Data analyst in the field of **data science & analytics**, accompanied by a **Master’s in Business Administration from Pune University**. Working with new projects, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I have experience in **Data management, Descriptive data analysis,** **Building impactful reports and dashboards**, which I believe are key strengths for a data analyst role. 
