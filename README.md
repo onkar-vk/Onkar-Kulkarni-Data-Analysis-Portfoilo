@@ -13,9 +13,9 @@
 Hi there, I’m **Onkar Kulkarni** 👋  
 **📊 Data Analyst | SQL • Python • Power BI • Excel  🚀 Unlocking Growth Through Data-Driven Insights:**
  
-I’m Onkar, a passionate Data Analyst with 2 years of experience in leveraging **SQL, Python, Power BI, and Excel** to uncover trends, solve business problems, and present actionable insights. My mission is to transform raw data into compelling stories that help businesses make smarter decisions. I love figuring out the story and insights from the messy data. 
+I’m Onkar, a passionate Data Analyst with 2 years of experience in leveraging **SQL, Python, Power BI, and Excel** to uncover trends, solve business problems, and present actionable insights. My mission is to transform raw data into compelling stories that help businesses make smarter decisions. I love figuring out the story and insights from the messy data. I have been working as Data analyst in the field of **data science & analytics**, accompanied by a **Master’s in Business Administration from Pune University** and a Google certified data analytics specialization. 
 
-I have been working as Data analyst in the field of **data science & analytics**, accompanied by a **Master’s in Business Administration from Pune University** and a Google certified data analytics specialization. During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I have experience in **Data management, Descriptive analysis, and Building impactful reports and dashboards**, which I believe are key strengths for a data analyst role. 
+Working with new projects, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I have experience in **Data management, Descriptive data analysis,** **Building impactful reports and dashboards**, which I believe are key strengths for a data analyst role. 
 
 In free time, I enjoy exploring new data analysis tools and techniques to continuously enhance my skills. Whether collaborating with a team or working independently, I am passionate about uncovering insights and solving complex problems through data.
 
