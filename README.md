@@ -1,12 +1,19 @@
-# Onkar Kulkarni - Data Analyst Portfolio
+ # Onkar Kulkarni - Data Analyst Portfolio
+<p align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div id="badges">
+<div id="badges">
+ <p align="center">
+  <a href="[https://www.linkedin.com/in/onkar-k-data/](https://www.linkedin.com/in/onkar-vk/)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a> 
+</div>
 
 ## About
 
 Hello there, I’m **Onkar Kulkarni** 👋  
-📊 Data Analyst | SQL • Python • Power BI • Excel 
-
-🚀 Unlocking Growth Through Data-Driven Insights:
-
+📊 Data Analyst | SQL • Python • Power BI • Excel   🚀 Unlocking Growth Through Data-Driven Insights:
+ 
 I’m Onkar, a passionate Data Analyst with 2 years of experience in leveraging SQL, Python, Power BI, and Excel to uncover trends, solve business problems, and present actionable insights. My mission is to transform raw data into compelling stories that help businesses make smarter decisions. I love figuring out the story and insights from the messy data. 
 
 As a Data Analyst with 2 years of experience in the field of data science & analytics, accompanied by a Master’s in Business Administration from Pune University and a Google certified data analytics specialization. 
@@ -16,6 +23,8 @@ In my free time, I enjoy exploring new data analysis tools and techniques, and I
 
 
 My CV in [pdf](PDF-Link).
+
+This is a repository to showcase Technical skills and Work Experience, Key Achievements, share projects and track my progress in Data Analytics / Data Science related practice.
 
 ## Table of Contents
 
@@ -34,7 +43,27 @@ My CV in [pdf](PDF-Link).
 
  <br>
 
+ 
+ <br>
+<div>
+<p align="center">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/> </a> 
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/> </a> 
+ <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="60"/> </a>
+    <a href="https://www.microsoft.com/en-us/download/details.aspx?id=58494" target="_blank" rel="noreferrer"> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Desktop.png" title="PowerBI" alt="PowerBI" width="60" height="60"/> </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="60" height="60"/> </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="60" height="60"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60"/> </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="60" height="60"/> </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="60" height="60"/> </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="60" height="60"/> </a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="VisualStudio" alt="VisuaStudio" width="60" height="60"/> </a> 
+  <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="60" height="60"/> </a>
 
+
+<br>
+
+<br>
 
 
 ### 🔑 Technical Skills : 
@@ -65,5 +94,11 @@ My CV in [pdf](PDF-Link).
 
 - Cleaned and analyzed large dataset, improving data accuracy by 15%.
 
+<br>
+ 
+## Data Analyst Projects: 
 
-This is a repository to showcase Technical skills and Work Experience, Key Achievements, share projects and track my progress in Data Analytics / Data Science related topics.
+1. ## [Rajiv_Store_Analysis_Excel_Dashboared](https://github.com/onkar-vk/Excel_Rajiv_Store_Analysis)
+   
+3. ## [Music_Store_Analysis_SQL_Project](https://github.com/onkar-vk/Music_Store_Analysis_SQL_Project)
+
