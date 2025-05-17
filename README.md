@@ -1,11 +1,10 @@
  # Onkar Kulkarni - Data Analyst Portfolio
+ 
 <p align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-<div id="badges">
-<div id="badges">
  <p align="center">
   <a href="(https://www.linkedin.com/in/onkar-vk/)">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  
   </a> 
 </div>
 
@@ -24,7 +23,7 @@ In my free time, I enjoy exploring new data analysis tools and techniques, and I
 
 My CV in [pdf](PDF-Link).
 
-This is a repository to showcase Technical skills and Work Experience, Key Achievements, share projects and track my progress in Data Analytics / Data Science related practice.
+This is a repository to showcase Work Experience, Technical skills & Key Achievements, Projects and track my progress in Data Analytics / Data Science related practices.
 
 ## Table of Contents
 
@@ -100,5 +99,5 @@ This is a repository to showcase Technical skills and Work Experience, Key Achie
 
 1. ## [Rajiv_Store_Analysis_Excel_Dashboared](https://github.com/onkar-vk/Excel_Rajiv_Store_Analysis)
    
-3. ## [Music_Store_Analysis_SQL_Project](https://github.com/onkar-vk/Music_Store_Analysis_SQL_Project)
+2. ## [Music_Store_Analysis_SQL_Project](https://github.com/onkar-vk/Music_Store_Analysis_SQL_Project)
 
