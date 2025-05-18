@@ -1,4 +1,5 @@
  # Onkar Kulkarni - Data Analyst Portfolio
+ <br>
  
 <p align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -65,7 +66,6 @@ This is a repository to showcase Work Experience, Technical skills & Key Achieve
 
 <br>
 
-
 ### 🔑 Technical Skills : 
 
 **🔑 Data Collection and Cleaning:** MS-Excel & SQL Database, Data Integrity, Data Exploration, Merging and Joining Data.
@@ -84,20 +84,45 @@ This is a repository to showcase Work Experience, Technical skills & Key Achieve
 
 
 <br>
-
-### ✨Key Achievements:
-- Designed a sales performance dashboard in Power BI, boosting decision-making speed by 30%.
-
-- Automated monthly reporting for Sales & Marketing , saving 8+ hours per week using Python.
-
-- Developed a churn prediction model, increasing customer retention by 20% for the company.
-
-- Cleaned and analyzed large dataset, improving data accuracy by 15%.
-
-<br>
  
 ## Data Analyst Projects: 
 
 ## 1. [Rajiv_Store_Analysis_Excel_Dashboared](https://github.com/onkar-vk/Excel_Rajiv_Store_Analysis)
    
 ## 2. [Music_Store_Analysis_SQL_Project](https://github.com/onkar-vk/Music_Store_Analysis_SQL_Project)
+
+## 3. [Ecommerce_USA_Company_Sales_Dashboard](https://github.com/onkar-vk/Ecommerce-USA-Sales-Dashboard)
+
+<br>
+
+### Key Achievements✨:
+- Designed a sales performance dashboard in Power BI, boosting decision-making speed by 30%.
+- Automated monthly reporting for Sales & Marketing , saving 8+ hours per week using Python.
+- Developed a churn prediction model, increasing customer retention by 20% for the company.
+- Cleaned and analyzed large dataset, improving data accuracy by 15%.
+
+
+## Certifications:
+- Certification of Data Analyst 101: Excel formulas and functions
+-	Certification of Data Analytics from Simplilearn
+- Certification of Data Science from Simplilearn
+- Certification of Python libraries for Data science From Simplilearn
+
+
+## Qualification: 
+  - MBA in Marketing from Pune University : CGPA 7.24                    (Year 2017-19)
+  - Bachelor of Computer Application from BAMU University : 81.05% Marks (Year 2014-17)
+
+
+## Soft Skills: 
+- Data Management
+- Problem Solving Skills
+- Critical Thinking
+- Attention to Detail 
+- Communication Skills
+- Curiosity & Quick Learner
+
+## Contacts:
+
+- **Linkedin:** https://www.linkedin.com/in/onkar-vk/ 
+- **Email:** onkarkulkarni251@gmail.com
