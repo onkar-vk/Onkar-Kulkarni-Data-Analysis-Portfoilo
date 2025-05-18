@@ -87,11 +87,11 @@ This is a repository to showcase Work Experience, Technical skills & Key Achieve
  
 ## Data Analyst Projects: 
 
-## 1. [Rajiv_Store_Analysis_Excel_Dashboared](https://github.com/onkar-vk/Excel_Rajiv_Store_Analysis)
+### 1. [Rajiv_Store_Analysis_Excel_Dashboared](https://github.com/onkar-vk/Excel_Rajiv_Store_Analysis)
    
-## 2. [Music_Store_Analysis_SQL_Project](https://github.com/onkar-vk/Music_Store_Analysis_SQL_Project)
+### 2. [Music_Store_Analysis_SQL_Project](https://github.com/onkar-vk/Music_Store_Analysis_SQL_Project)
 
-## 3. [Ecommerce_USA_Company_Sales_Dashboard](https://github.com/onkar-vk/Ecommerce-USA-Sales-Dashboard)
+### 3. [Ecommerce_USA_Company_Sales_Dashboard](https://github.com/onkar-vk/Ecommerce-USA-Sales-Dashboard)
 
 <br>
 
